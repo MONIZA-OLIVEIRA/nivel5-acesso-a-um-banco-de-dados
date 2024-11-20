@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "67327f5b96b3954cd9062805"
+    },
+    "codigo": 1,
+    "codEditora": 1,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "resumo": "A primeira aventura do jovem bruxo Harry Potter em Hogwarts.",
+    "autores": [
+      "J.K. Rowling"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67327f5b96b3954cd9062806"
+    },
+    "codigo": 2,
+    "codEditora": 2,
+    "titulo": "O Código Da Vinci",
+    "resumo": "Uma emocionante investigação sobre mistérios históricos e religiosos.",
+    "autores": [
+      "Dan Brown"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67327f5b96b3954cd9062807"
+    },
+    "codigo": 3,
+    "codEditora": 3,
+    "titulo": "Jogos Vorazes",
+    "resumo": "Em um mundo distópico, jovens lutam por sobrevivência em um jogo mortal.",
+    "autores": [
+      "Suzanne Collins"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67327f5b96b3954cd9062808"
+    },
+    "codigo": 4,
+    "codEditora": 3,
+    "titulo": "A Guerra dos Tronos",
+    "resumo": "A luta pelo Trono de Ferro em um mundo medieval fantástico.",
+    "autores": [
+      "George R.R. Martin"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67327f5b96b3954cd9062809"
+    },
+    "codigo": 5,
+    "codEditora": 2,
+    "titulo": "Percy Jackson e o Ladrão de Raios",
+    "resumo": "Um jovem descobre ser filho de um deus grego e embarca em uma aventura épica.",
+    "autores": [
+      "Rick Riordan"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67327f5b96b3954cd906280a"
+    },
+    "codigo": 6,
+    "codEditora": 1,
+    "titulo": "Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+    "resumo": "Quatro irmãos descobrem um mundo mágico dentro de um guarda-roupa.",
+    "autores": [
+      "C.S. Lewis"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67327f5b96b3954cd906280b"
+    },
+    "codigo": 7,
+    "codEditora": 2,
+    "titulo": "A Bússola de Ouro",
+    "resumo": "Uma jornada mágica e perigosa através de universos paralelos.",
+    "autores": [
+      "Philip Pullman"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67327f5b96b3954cd906280c"
+    },
+    "codigo": 8,
+    "codEditora": 3,
+    "titulo": "O Hobbit",
+    "resumo": "A jornada de Bilbo Bolseiro para recuperar o tesouro de Smaug.",
+    "autores": [
+      "J.R.R. Tolkien"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67327f5b96b3954cd906280d"
+    },
+    "codigo": 9,
+    "codEditora": 2,
+    "titulo": "A Menina que Roubava Livros",
+    "resumo": "A história de uma jovem que encontra consolo em livros durante a Segunda Guerra Mundial.",
+    "autores": [
+      "Markus Zusak"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67327f5b96b3954cd906280e"
+    },
+    "codigo": 10,
+    "codEditora": 2,
+    "titulo": "Divergente",
+    "resumo": "Em um mundo dividido por facções, uma jovem desafia o sistema.",
+    "autores": [
+      "Veronica Roth"
+    ]
+  }
+]
